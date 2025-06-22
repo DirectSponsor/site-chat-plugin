@@ -1,3 +1,5 @@
+Moving all our stuff to our own sever. Archiving it. 
+
 # site-chat-plugin
 Currently using Telegram for in-page chat which is able to be embedded via a bot into the site. It’s a plug-in and a bot called chatbro which is no longer maintained (2 years). The dev runs it on his own server which is often down, but we could run it ourselves using the open source code on github.
 
